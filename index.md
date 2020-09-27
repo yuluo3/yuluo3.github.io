@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+<div>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <p><b>姓名：左家奇</b></p>
+      <p><b>专业：软件工程（本科）</b></p>
+      <p><b>院校：石家庄铁道大学信息科学与技术学院</b></p>
+      <p><b>邮箱：3330652201@qq.com</b></p>
+      <p><b>电话：17370236183</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+</div>
 
-You can use the [editor on GitHub](https://github.com/yuluo3/yuluo3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 荣誉奖项
+- 普通话二级甲等
+- 软件著作权
+- 全国大学生组织管理能力大赛优秀奖
 
-### Markdown
+### 专业技能
+- 精通JAVA,SQL,Python等语言
+- 熟练掌握Eclipse，IDEA，Mysql等软件
+- 熟练使用office办公软件
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 校园经历
+- **2017.09~2018.09   校学生会   干事**  
+参与策划学园活动，如迎新会，社团活动等
+- **2019.10~2019.12   软件开发   开发人员**   
+和舍友一起编写《基于人工智能的大数据分析软件》并获得软件著作权，软件主要负责对企业能耗的监控和管理。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuluo3/yuluo3.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 自我评价
+- 在校期间努力学习，不断进步，有良好的专业知识基础。   
+- 工作积极乐观，耐心负责。   
+- 定期进行自我反省，吸取教训完善自己。   
+- 制定阶段性目标，目标明确，执行能力强。   
+- 在校期间人际关系良好，具有较好的沟通能力。   
